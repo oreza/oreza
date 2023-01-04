@@ -9,12 +9,11 @@ You can reach me via
 
 Some side projects
 * XDP based filtering and security (Bouncer)
-*  
 
 
-![image]({https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white})
-![image]({https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white})
-![image]({https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white})
-![image]({https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white})
+![image](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+![image](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ![alt text](https://github.com/oreza/oreza/blob/main/profile_bottom.png?raw=true)

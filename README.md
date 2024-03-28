@@ -7,10 +7,6 @@ I am a software engineer with a focus on distributed systems, particularly event
 ![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,packer)
 
 
-## Side projects:
-* XDP based firewall that combines port Knocking (Bouncer)
-* Childern Learning toy, that combines alphabets carved on my **Openfinity CNC** and vacabulary practice using **Raspbery Pi 2 pico W** along with companison app written in Flutter.
-
 ## Contact me
 <p>
     <a href="https://keybase.io/ovaisreza" alt="Keybase"><img src="https://www.vectorlogo.zone/logos/keybase/keybase-official.svg" width=20px length=20px></a>

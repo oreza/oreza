@@ -1,5 +1,4 @@
-![alt text](https://github.com/oreza/oreza/blob/main/profilev2_top.png?raw=true)
-                              
+                             
 I am a software engineer with a focus on distributed systems, particularly event-first architecture using microservices from **development** to **orchestration** - on various **Cloud Platforms**, **messaging/task** queues, **Observability and security**. I am proficient in a variety of programming languages including **Go, Java, C, Rust, and Python**. I am passionate about Linux system programming, security and especially BPF, which I used for monitoring, profiling and optimization in past projects using bpftrace, systemtap, libbpf. In my spare time, I enjoy tinkering with FPGAs, Arduino, and ESP32 and have developed several projects that combine woodworking with electronics as part of my side project along with my wife. Thank you for visiting my GitHub profile!
                               
 
@@ -19,5 +18,3 @@ I am a software engineer with a focus on distributed systems, particularly event
 </p>
   
   
-
-![alt text](https://github.com/oreza/oreza/blob/main/profilev2_bottom.png?raw=true)
